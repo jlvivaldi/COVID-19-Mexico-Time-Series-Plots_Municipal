@@ -1,4 +1,4 @@
-# COVID-19-Mexico-Time-Series-Plots
+# COVID-19-Mexico-Time-Series-Plots_Municipal
  
 Este repositorio contiene gráficas a nivel estatal y municipal para el estado de Nuevo León del desarrollo de la epidemia del nuevo coronavirus SARS-CoV-2, casusante de COVID-19 en México. Los datos actuales pertenecen al procesamiento de la Base de Datos Abiertos de la Dirección General de Epidemiología que depende de la Secretaría de Salud Federal, por lo que los datos que se toman en consideración no contienen datos de hospitales privados en la entidad. 
 
