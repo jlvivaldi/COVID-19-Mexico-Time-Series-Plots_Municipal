@@ -1,6 +1,6 @@
 # COVID-19-Mexico-Time-Series-Plots
  
-Este repositorio contiene gráficas a nivel nacional y estatal del desarrollo de la epidemia del nuevo coronavirus SARS-CoV-2, casusante de COVID-19 en México. En fechas posteriores y si el tiempo y disponibilidad lo permiten, agregaré las tablas y bases de datos corregidos para su descarga y utilización. 
+Este repositorio contiene gráficas a nivel estatal y municipal para el estado de Nuevo León del desarrollo de la epidemia del nuevo coronavirus SARS-CoV-2, casusante de COVID-19 en México. Los datos actuales pertenecen al procesamiento de la Base de Datos Abiertos de la Dirección General de Epidemiología que depende de la Secretaría de Salud Federal, por lo que los datos que se toman en consideración no contienen datos de hospitales privados en la entidad. 
 
 El respositorio está ordenado de la siguiente manera: la carpeta "Código", contiene el código en lenguaje R usado para la lectura, limpieza, codificación, segmentación, análisis y elaboración de todo el material gráfico y estadístico contenido en este repositorio. La segunda carpeta ("Graficas"), contiene una serie de subcarpetas en las cuales podrá consultar y descargar las diferentes gráficas elaboradas para este análisis. Las subcarpetas a su vez, están divididas en 11 contenedores que incluyen lo siguiente:
 
