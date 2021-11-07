@@ -22,6 +22,3 @@ El respositorio está ordenado de la siguiente manera: la carpeta "Código", con
 
  08_Positividad: Contiene el cálculo del porcentaje de positividad por semana y acumulado.
 
- 09_Hospitalizaciones: Contiene la serie de tiempo de las hospitalizaciones por día en la Ciudad de México.
-
- 10_Vacunación: Contiene un mapa didáctico que muestra el avance de la estrategia nacional de vacunación. 
